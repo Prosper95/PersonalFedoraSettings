@@ -1,0 +1,2 @@
+#To increase track point sensitivity
+echo 250 > /sys/bus/serio/devices/serio2/sensitivity
